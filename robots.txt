@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-vt69c1.biggamingwin.online/sitemap.xml
